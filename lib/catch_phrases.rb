@@ -13,5 +13,5 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 def any_phrase(phrase)
-  return 'Do A Barrel Roll'
+  return 'Do A Barrel Roll!'
 end
